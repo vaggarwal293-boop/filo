@@ -24,7 +24,7 @@
 // ============================================================
 
 const SHEET_NAME = 'Leads';                       // Name of the sheet tab
-const NOTIFY_EMAIL = 'contact@spacephilic.com';   // Where to send email alerts
+const NOTIFY_EMAIL = 'indra.chaudhary@spacephilic.com';   // Where to send email alerts
 
 // ── Handle POST requests from the contact form ──
 function doPost(e) {
